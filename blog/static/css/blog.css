@@ -1,0 +1,60 @@
+
+body {
+    padding-left: 15px;
+    background-color: #ec9595;
+}
+
+.page-header {
+    margin-top: 0;
+    margin-left: 0;
+    padding: 20px 20px 20px 30px;
+    background-color: #ffe134;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #400cd1;
+    font-size: 36pt;
+    text-underline-position: below;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #4e4949;
+    padding-bottom: 0cm;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ec0f0f;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 50px;
+}
+
+.post-content{
+    color: #0a1e38;
+}
+.post h2 a, .post h2 a:visited {
+    color: #09489b;
+    padding-top: 0em;
+    font-size: 30px;
+    text-decoration-color: deepskyblue;
+}
