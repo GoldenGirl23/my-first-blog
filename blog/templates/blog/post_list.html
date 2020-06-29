@@ -9,6 +9,7 @@
                             <div >
                             <h2><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h2>
                             <p class="post-content">{{ post.text|linebreaksbr }}</p>
+                            <hr style="height:5px;color:rgb(165, 15, 45);">
                         </div>
                         </div>
                     {% endfor %}
